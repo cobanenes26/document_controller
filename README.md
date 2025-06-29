@@ -113,3 +113,22 @@ MIT License – Free to use, modify, and distribute.
 Developed by **Enes Çoban**
 
 This tool is designed to assist in documentation quality validation for engineering, aerospace, defense, and compliance-critical domains.
+
+## 🖼 Example Screenshots
+
+Below are key screenshots demonstrating the GUI and control flow of the application:
+
+### 1. Home Screen
+![Home Screen](images/screenshot_home.png)
+
+### 2. Standard Selection View
+![Standard Selection](images/screenshot_standard_select.png)
+
+### 3. File Dialog for PDF Selection
+![Open PDF File Dialog](images/screenshot_file_dialog.png)
+
+### 4. Control Log – All Checks Passed
+![Validation Success](images/screenshot_pass.png)
+
+### 5. Control Log – Fail Example
+![Validation Fail](images/screenshot_fail.png)
