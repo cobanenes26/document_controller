@@ -1,0 +1,12 @@
+standard_name: DO-160G Environmental Conditions and Test Procedures
+required_sections:
+- Purpose
+- Equipment Description
+- Test Setup
+- Environmental Categories
+- Test Procedures
+- Test Results
+- Conclusion
+options:
+  allow_partial_matches: true
+  ignore_case: true

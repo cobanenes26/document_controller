@@ -1,0 +1,37 @@
+standard_name: IEEE 1016
+required_sections:
+  - Introduction
+  - References
+  - Definitions and Acronyms
+  - System Overview
+  - Design Considerations
+  - Architectural Design
+  - Detailed Design
+  - Traceability
+options:
+  allow_partial_matches: true
+  ignore_case: true
+check_empty_sections: true
+min_section_length: 30
+check_heading_sequence: true
+check_reference_consistency: true
+check_image_dpi: true
+min_image_dpi: 100
+check_figure_table_references: true
+terminology_rules:
+  forbidden_words:
+    - shall
+    - must
+    - will
+  preferred_words:
+    - should
+    - recommended
+concept_groups:
+  Unmanned Aerial Vehicle:
+    - UAV
+    - drone
+  Ethernet:
+    - ethernet
+    - LAN
+  Connectors:
+    - rj45

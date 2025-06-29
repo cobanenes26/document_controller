@@ -1,0 +1,15 @@
+standard_name: ARP4754A System Development
+required_sections:
+- Introduction
+- System Overview
+- Operational Context
+- System Requirements
+- Functional Architecture
+- Validation Plan
+- Safety Objectives
+- Development Assurance Level (DAL)
+- Traceability Matrix
+- Verification Plan
+options:
+  allow_partial_matches: true
+  ignore_case: true

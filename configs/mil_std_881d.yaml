@@ -1,0 +1,12 @@
+standard_name: MIL-STD-881D Work Breakdown Structure
+required_sections:
+- WBS Introduction
+- WBS Dictionary
+- System Elements
+- Subsystem Elements
+- Project Summary
+- WBS Charts
+- Numbering Schema
+options:
+  allow_partial_matches: true
+  ignore_case: true

@@ -1,0 +1,14 @@
+standard_name: MIL-STD-882E System Safety Program
+required_sections:
+- Scope
+- Applicable Documents
+- Definitions
+- System Safety Program Requirements
+- Hazard Identification
+- Risk Assessment
+- Mitigation Strategies
+- Verification
+- Documentation
+options:
+  allow_partial_matches: true
+  ignore_case: true

@@ -1,0 +1,4 @@
+PyMuPDF
+PyYAML
+pathlib
+frontend

@@ -1,0 +1,11 @@
+standard_name: ISO 10007 Configuration Management
+required_sections:
+- Scope
+- Configuration Identification
+- Change Control
+- Status Accounting
+- Configuration Audit
+- Roles and Responsibilities
+options:
+  allow_partial_matches: true
+  ignore_case: true

@@ -1,0 +1,14 @@
+standard_name: ARP4761 Safety Assessment
+required_sections:
+- System Safety Objectives
+- Preliminary Hazard Analysis
+- Functional Hazard Assessment
+- FMEA
+- FTA
+- Zonal Safety Analysis
+- Common Cause Analysis
+- Safety Verification
+- Safety Summary
+options:
+  allow_partial_matches: true
+  ignore_case: true

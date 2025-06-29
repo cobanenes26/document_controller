@@ -1,0 +1,11 @@
+standard_name: ISO/IEC/IEEE 42010
+required_sections:
+  - Stakeholders and Concerns
+  - Architectural Views
+  - Architectural Rationale
+  - Architecture Decisions
+  - System Context
+  - Architecture Description Elements
+options:
+  allow_partial_matches: true
+  ignore_case: true

@@ -1,0 +1,12 @@
+standard_name: IEEE 1058 Software Project Management Plan
+required_sections:
+- Introduction
+- Project Organization
+- Managerial Process Plans
+- Technical Process Plans
+- Supporting Process Plans
+- Additional Plans
+- Appendices
+options:
+  allow_partial_matches: true
+  ignore_case: true

@@ -1,0 +1,12 @@
+standard_name: STANAG 4427 Logistics Product Data
+required_sections:
+- Introduction
+- Applicable Documents
+- Data Requirements
+- Logistics Support Analysis
+- Data Exchange Format
+- Responsibility Assignment
+- Lifecycle Integration
+options:
+  allow_partial_matches: true
+  ignore_case: true

@@ -1,0 +1,17 @@
+standard_name: DO-178C
+required_sections:
+- Introduction
+- Software Life Cycle Environment
+- High-Level Requirements
+- Low-Level Requirements
+- Software Architecture
+- Software Design
+- Source Code and Standards
+- Verification and Validation
+- Traceability Matrix
+- Configuration Management
+- Quality Assurance
+- Certification Liaison
+options:
+  allow_partial_matches: true
+  ignore_case: true

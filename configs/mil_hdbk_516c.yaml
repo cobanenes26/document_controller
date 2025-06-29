@@ -1,0 +1,12 @@
+standard_name: MIL-HDBK-516C Airworthiness Certification
+required_sections:
+- Scope
+- Applicable Documents
+- Certification Criteria
+- Assessment Methods
+- Compliance Matrix
+- Airworthiness Evidence
+- Supporting Analysis
+options:
+  allow_partial_matches: true
+  ignore_case: true

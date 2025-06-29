@@ -1,0 +1,15 @@
+standard_name: MIL-STD-498 Software Design Document
+required_sections:
+- Scope
+- Referenced Documents
+- Requirements
+- System Overview
+- Design Decisions
+- System Design
+- Interface Design
+- Data Design
+- Traceability
+- Notes and Appendices
+options:
+  allow_partial_matches: true
+  ignore_case: true

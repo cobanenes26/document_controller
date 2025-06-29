@@ -1,0 +1,13 @@
+standard_name: ISO 10005 Quality Plans
+required_sections:
+- Purpose
+- Scope
+- Quality Objectives
+- Organizational Structure
+- Document Control
+- Resource Management
+- Measurement and Analysis
+- Improvement Plan
+options:
+  allow_partial_matches: true
+  ignore_case: true
